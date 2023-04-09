@@ -91,5 +91,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation 'com.snapscreen.mobile:sdk-android:2.2.4'
-    implementation 'tv.clipshare.mobile:sdk-android:1.0.0'
+    implementation 'tv.clipshare.mobile:sdk-android:1.0.1'
 }

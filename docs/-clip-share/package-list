@@ -2,6 +2,7 @@ $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:tv.clipshare.mobile.model////PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/index.html
 $dokka.location:tv.clipshare.mobile.model/Clip///PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/-clip/index.html
+$dokka.location:tv.clipshare.mobile.model/Clip/getClipId/#/PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/-clip/get-clip-id.html
 $dokka.location:tv.clipshare.mobile.model/Clip/getThumbnailURL/#/PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/-clip/get-thumbnail-u-r-l.html
 $dokka.location:tv.clipshare.mobile.model/Clip/getVideoURL/#/PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/-clip/get-video-u-r-l.html
 $dokka.location:tv.clipshare.mobile.model/Clip/setThumbnailURL/#kotlin.String?/PointingToDeclaration/-clip-share/tv.clipshare.mobile.model/-clip/set-thumbnail-u-r-l.html
