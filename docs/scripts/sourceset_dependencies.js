@@ -1,0 +1,1 @@
+sourceset_dependencies='{":clipshare-android:dokkaHtml/androidTestRelease":[],":clipshare-android:dokkaHtml/debug":[],":clipshare-android:dokkaHtml/main":[],":clipshare-android:dokkaHtml/release":[]}'
